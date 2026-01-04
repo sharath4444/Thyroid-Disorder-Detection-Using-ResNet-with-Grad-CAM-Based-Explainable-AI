@@ -1,4 +1,4 @@
-# Thyroid-Disorder-Detection-Using-ResNet-with-Grad-CAM-Based-Explainable-AI
+
 # Thyroid Disorder Detection — ResNet50 + Grad-CAM (Explainable AI) 🏥
 
 A compact research project that combines deep learning (ResNet50 + Grad-CAM) on ultrasound images with a classical machine learning model (Random Forest) on blood-test features to produce a fused, explainable thyroid disorder diagnostic aid.
